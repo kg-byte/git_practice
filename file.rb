@@ -1,5 +1,5 @@
 class number(num)
-  num += 2
+  num += 29
 
   return num
 end
